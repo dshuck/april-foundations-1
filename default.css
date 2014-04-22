@@ -5,8 +5,10 @@ body{
 
 h1{
 	font-size: 1.8em;
+	color: #111111;
 }
 
 h2{
 	font-size: 1.4em;
+	text-decoration: underline;
 }
